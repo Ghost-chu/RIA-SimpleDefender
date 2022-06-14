@@ -1,0 +1,3 @@
+name: SimpleDefender
+version: '1.0.0'
+main: com.ghostchu.simpledefender.SimpleDefender
